@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-EF4M6FSW.mjs";function r(e,a){return{bodyClassName:"framer-body-Ii1EpKl7Q",breakpoints:[{hash:"9blpqt"}],description:t(e,a).description,elements:{},robots:"max-image-preview:large",title:t(e,a).title||"Register",viewport:"width=1920"}}var p=1,d={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"function",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,p as b,d as c};
+//# sourceMappingURL=chunk-HJNNJG2G.mjs.map

@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-EF4M6FSW.mjs";function r(e,a){return{bodyClassName:"framer-body-EJBAC42Sd",breakpoints:[{hash:"m5w6eh"}],description:t(e,a).description,elements:{},robots:"max-image-preview:large",title:t(e,a).title||"Sponsors",viewport:"width=1920"}}var d=1,m={exports:{default:{type:"function",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,d as b,m as c};
+//# sourceMappingURL=chunk-IJQMD6E7.mjs.map
