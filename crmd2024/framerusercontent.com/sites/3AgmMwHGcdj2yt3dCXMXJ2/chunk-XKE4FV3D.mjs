@@ -1,2 +1,0 @@
-import{a as t}from"./chunk-EF4M6FSW.mjs";function r(e,a){return{bodyClassName:"framer-body-HKPQ3VSek",breakpoints:[{hash:"1818x1k"}],description:t(e,a).description,elements:{},robots:"max-image-preview:large",title:t(e,a).title||"Testimonials",viewport:"width=1920"}}var m=1,d={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"function",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,m as b,d as c};
-//# sourceMappingURL=chunk-XKE4FV3D.mjs.map
